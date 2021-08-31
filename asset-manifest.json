@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5a21f91.chunk.css",
-    "main.js": "/static/js/main.a9e11fbc.chunk.js",
-    "main.js.map": "/static/js/main.a9e11fbc.chunk.js.map",
+    "main.css": "/static/css/main.c2d13f97.chunk.css",
+    "main.js": "/static/js/main.04b33550.chunk.js",
+    "main.js.map": "/static/js/main.04b33550.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.808db512.js",
     "runtime-main.js.map": "/static/js/runtime-main.808db512.js.map",
     "static/js/2.12402c52.chunk.js": "/static/js/2.12402c52.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6d0e76ef.chunk.js": "/static/js/3.6d0e76ef.chunk.js",
     "static/js/3.6d0e76ef.chunk.js.map": "/static/js/3.6d0e76ef.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a5a21f91.chunk.css.map": "/static/css/main.a5a21f91.chunk.css.map",
+    "static/css/main.c2d13f97.chunk.css.map": "/static/css/main.c2d13f97.chunk.css.map",
     "static/js/2.12402c52.chunk.js.LICENSE.txt": "/static/js/2.12402c52.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Comfortaa.7897f745.ttf",
     "static/media/QuboRun.3ed6f7ef.png": "/static/media/QuboRun.3ed6f7ef.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.808db512.js",
     "static/js/2.12402c52.chunk.js",
-    "static/css/main.a5a21f91.chunk.css",
-    "static/js/main.a9e11fbc.chunk.js"
+    "static/css/main.c2d13f97.chunk.css",
+    "static/js/main.04b33550.chunk.js"
   ]
 }
